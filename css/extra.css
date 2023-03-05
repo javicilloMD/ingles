@@ -1,0 +1,10 @@
+h1 {
+    font-style:initial;
+    font-family:monospace;
+    border-bottom: 2px solid var(--md-default-fg-color-light);
+}
+
+h2, h3, h4, h5 { 
+    font-style: italic;
+    font-family:monospace;
+}
